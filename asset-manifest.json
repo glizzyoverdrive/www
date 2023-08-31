@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/www/static/css/main.ab004fd9.css",
-    "main.js": "/www/static/js/main.958c2e4c.js",
+    "main.js": "/www/static/js/main.f6609655.js",
     "static/js/496.392d5ba2.chunk.js": "/www/static/js/496.392d5ba2.chunk.js",
     "static/media/lemmings.png": "/www/static/media/lemmings.10dd7af59bb8399b832b.png",
     "static/media/why-are-you-gay.mp3": "/www/static/media/why-are-you-gay.51e99512030136b28c5a.mp3",
@@ -24,11 +24,11 @@
     "static/media/check-disabled.svg": "/www/static/media/check-disabled.6c74515b9665a58c67515a6b7d03ecec.svg",
     "static/media/rightcaret.svg": "/www/static/media/rightcaret.4316e9ffed3db2dabed84fe4f8329010.svg",
     "main.ab004fd9.css.map": "/www/static/css/main.ab004fd9.css.map",
-    "main.958c2e4c.js.map": "/www/static/js/main.958c2e4c.js.map",
+    "main.f6609655.js.map": "/www/static/js/main.f6609655.js.map",
     "496.392d5ba2.chunk.js.map": "/www/static/js/496.392d5ba2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab004fd9.css",
-    "static/js/main.958c2e4c.js"
+    "static/js/main.f6609655.js"
   ]
 }
